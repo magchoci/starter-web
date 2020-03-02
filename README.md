@@ -13,3 +13,6 @@ Blabla
 
 ## How to Contribute
 dsdsdsd 
+
+## Copyright 
+fdfdfd 
