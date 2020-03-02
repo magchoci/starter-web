@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+NIe do wiary 
+
 Blabla 
 
 ## How to Contribute
